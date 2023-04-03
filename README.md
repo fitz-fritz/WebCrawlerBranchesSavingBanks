@@ -1,2 +1,2 @@
 # WebCrawler SavingBanks
- a crawler to identify all branches of german saving banks - in progress (some debugging still necessary)
+ a crawler to identify all branches of german saving banks - work in progress (some minor debugging still necessary)
